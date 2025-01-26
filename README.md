@@ -1,3 +1,3 @@
-Basic HTML Messi page
+Basic HTML page about Ronaldo and Messi
 <br>
-Aryan Kale
+Enjoy!
